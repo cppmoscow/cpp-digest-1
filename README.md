@@ -6,7 +6,7 @@
 
 ## Аннотация
 
-Привет, Хабр! Сегодня я хочу вам представить подборку интересных новостей и материалов из мира C++ за прошедшие две недели.
+Привет, Хабр! Сегодня я хочу вам представить подборку интересных новостей и материалов из мира C++ за последние две недели.
 
 Приятного чтения!
 
@@ -44,9 +44,9 @@
 
 ## 📺 Видео
 
-1. [Interview with Felix Jones: Game Dev, GBA Homebrew, constexpr and Minecraft](https://www.youtube.com/watch?v=PxkgX2MTmQ8) — Интервью с Феликсом Джонсом, техлидом Minecraft Bedrock Edition.
-2. [C++ Weekly - Ep 388 - My constexpr Revenge Against Lisp](https://www.youtube.com/watch?v=NQEE0k9i7FA) — Обзор [cons_expr](https://github.com/lefticus/cons_expr), constexpr интерпретатора [Scheme](https://ru.wikipedia.org/wiki/Scheme)-подобного скриптового языка.
-3. [C++ Weekly - Ep 389 - Avoiding Pointer Arithmetic](https://www.youtube.com/watch?v=YahYVRS1Ktg) — Обзор множества способов, как мы можем изголяться, лишь бы не использовать арифметику указателей, на простейшем примере.
+1. Jason Turner: [Interview with Felix Jones: Game Dev, GBA Homebrew, constexpr and Minecraft](https://www.youtube.com/watch?v=PxkgX2MTmQ8) — Интервью с Феликсом Джонсом, техлидом Minecraft Bedrock Edition.
+2. Jason Turner: [C++ Weekly - Ep 388 - My constexpr Revenge Against Lisp](https://www.youtube.com/watch?v=NQEE0k9i7FA) — Обзор [cons_expr](https://github.com/lefticus/cons_expr), constexpr интерпретатора [Scheme](https://ru.wikipedia.org/wiki/Scheme)-подобного скриптового языка.
+3. Jason Turner: [C++ Weekly - Ep 389 - Avoiding Pointer Arithmetic](https://www.youtube.com/watch?v=YahYVRS1Ktg) — Обзор множества способов, как мы можем изголяться, лишь бы не использовать арифметику указателей, на простейшем примере.
 
 ## 🎙️Подкасты
 
