@@ -48,6 +48,19 @@
 2. Jason Turner: [C++ Weekly - Ep 388 - My constexpr Revenge Against Lisp](https://www.youtube.com/watch?v=NQEE0k9i7FA) — Обзор [cons_expr](https://github.com/lefticus/cons_expr), constexpr интерпретатора [Scheme](https://ru.wikipedia.org/wiki/Scheme)-подобного скриптового языка.
 3. Jason Turner: [C++ Weekly - Ep 389 - Avoiding Pointer Arithmetic](https://www.youtube.com/watch?v=YahYVRS1Ktg) — Обзор множества способов, как мы можем изголяться, лишь бы не использовать арифметику указателей, на простейшем примере.
 
+### C++ Now 2023
+
+1. Sean Parent: [All the Safeties: Safety in C++](https://www.youtube.com/watch?v=MO-qehjc04s)
+2. Hana Dusíková: [A Graph Based Update System in C++: Lightning Updates](https://www.youtube.com/watch?v=C9MWAXYdFSY)
+3. Herb Sutter: Keynote: [The Evolution of C++ - A Typescript for C++](https://www.youtube.com/watch?v=fJvPBHErF2U)
+4. Chandler Carruth: [Modernizing Compiler Design for Carbon Toolchain](https://www.youtube.com/watch?v=ZI198eFghJk)
+
+### ACCU 2023
+
+1. Augustin Popa: [C++ Package Manager - C++ Dependencies Don't Have To Be Painful!](https://www.youtube.com/watch?v=P1C4BH5vI9k)
+2. Rostislav Khlebnikov: [Function Contracts in Practice using C++](https://www.youtube.com/watch?v=5ttyA1-I8D8)
+3. Anthony Williams: [Designing for C++ Concurrency Using Message Passing](https://www.youtube.com/watch?v=J-z4Mf9u-Sc)
+
 ## 🎙️Подкасты
 
 1. CppCast: [Episode 367, Soagen](https://cppcast.com/soagen/) — О рефлексии, SIMD и [soagen](https://marzer.github.io/soagen/), утилите и библиотеке, упрощающей работу с [Structure-of-Arrays](https://en.wikipedia.org/wiki/AoS_and_SoA).
